@@ -24,7 +24,10 @@ O GitHub Pages publica a versão nova em um ou dois minutos.
 
 ```
 index.html              projeções (página principal)
+relato.html             bandeira calculada a partir dos relatos do DECOMP (conta no navegador)
+relato_conta.js         conta da página do relato (os arquivos não saem do computador do usuário)
 metodologia.html        metodologia do modelo
-padrao/                 padrão visual (base.css, painel.css)
+padrao/                 padrão visual (base.css, painel.css, graficos.js)
 dados/produto_dados.js  dados da última rodada publicada
+dados/relato_dados.js   fatores, horas por patamar e boletim usados pela página do relato
 ```
